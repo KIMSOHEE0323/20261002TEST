@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Revit 을 시작할 때 읽는 파일입니다.
+  이 파일을 아래 폴더에 넣으면 [추가 기능] 탭 > [외부 도구] 에 명령이 생깁니다.
+    %AppData%\Autodesk\Revit\Addins\2025\
+
+  ※ 경로는 실제로 DLL 과 아이콘을 둔 폴더로 수정하세요.
+-->
+<RevitAddIns>
+  <!-- Command 타입 : 외부 도구 목록에 명령을 추가합니다 -->
+  <AddIn Type="Command">
+    <Name>Modless</Name>
+    <!-- 목록에 보이는 이름 -->
+    <Text>모드리스 폼</Text>
+    <!-- 마우스를 올리면 보이는 설명 -->
+    <Description>모드리스 폼을 엽니다.</Description>
+    <!-- 아이콘 (32 x 32 PNG) -->
+    <LargeImage>C:\Modless\Icon32.png</LargeImage>
+    <!-- DLL 절대경로 -->
+    <Assembly>C:\Modless\Modless.dll</Assembly>
+    <!-- 실행할 클래스 (네임스페이스.클래스명) -->
+    <FullClassName>Modless.Command</FullClassName>
+    <AddInId>6FD8B136-916C-4FB4-BA18-3139E465E3A6</AddInId>
+    <VendorId>STUDENT</VendorId>
+    <VendorDescription>Revit API 수업</VendorDescription>
+  </AddIn>
+</RevitAddIns>
