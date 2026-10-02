@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\261002\uD14C\uC2A4\uD2B8\\Modless\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15EE9FA9-C054-72F4-4434-D85F4A3E9DA6}|Modless.csproj|C:\\Users\\User\\Desktop\\261002\uD14C\uC2A4\uD2B8\\Modless\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{15EE9FA9-C054-72F4-4434-D85F4A3E9DA6}|Modless.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{15EE9FA9-C054-72F4-4434-D85F4A3E9DA6}|Modless.csproj|c:\\users\\user\\desktop\\261002\uD14C\uC2A4\uD2B8\\modless\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15EE9FA9-C054-72F4-4434-D85F4A3E9DA6}|Modless.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,8 +11,8 @@
       "RelativeMoniker": "D:0:0:{15EE9FA9-C054-72F4-4434-D85F4A3E9DA6}|Modless.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15EE9FA9-C054-72F4-4434-D85F4A3E9DA6}|Modless.csproj|c:\\users\\user\\desktop\\261002\uD14C\uC2A4\uD2B8\\modless\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15EE9FA9-C054-72F4-4434-D85F4A3E9DA6}|Modless.csproj|solutionrelative:command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15EE9FA9-C054-72F4-4434-D85F4A3E9DA6}|Modless.csproj|c:\\users\\user\\desktop\\261002\uD14C\uC2A4\uD2B8\\modless\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15EE9FA9-C054-72F4-4434-D85F4A3E9DA6}|Modless.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,53 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainForm.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\261002\uD14C\uC2A4\uD2B8\\Modless\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\261002\uD14C\uC2A4\uD2B8\\Modless\\MainForm.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "MainForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T01:36:52.015Z",
+              "WhenOpened": "2026-10-02T07:13:51.399Z",
               "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\261002\uD14C\uC2A4\uD2B8\\Modless\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "MainForm.Designer.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\261002\uD14C\uC2A4\uD2B8\\Modless\\MainForm.Designer.cs",
               "RelativeToolTip": "MainForm.Designer.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAxwCcAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAvwG8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T01:35:20.334Z",
+              "WhenOpened": "2026-10-02T05:56:50.83Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\261002\uD14C\uC2A4\uD2B8\\Modless\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\261002\uD14C\uC2A4\uD2B8\\Modless\\MainForm.cs",
               "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACwBAAAAAAAAAAAqwDkBAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-29T02:38:20.467Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Command.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\261002\uD14C\uC2A4\uD2B8\\Modless\\Command.cs",
-              "RelativeDocumentMoniker": "Command.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\261002\uD14C\uC2A4\uD2B8\\Modless\\Command.cs",
-              "RelativeToolTip": "Command.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwCIAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T10:40:07.101Z"
             }
           ]
         }
